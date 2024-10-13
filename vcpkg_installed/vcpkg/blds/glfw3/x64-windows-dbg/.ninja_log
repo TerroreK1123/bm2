@@ -1,0 +1,26 @@
+# ninja log v5
+67	725	7505228657392328	src/CMakeFiles/glfw.dir/null_init.c.obj	84596d8b7c52ea54
+32	745	7505228657422340	src/CMakeFiles/glfw.dir/vulkan.c.obj	b1de44cfd937e4d7
+14	757	7505228657552327	src/CMakeFiles/glfw.dir/init.c.obj	1d454834b43c50c9
+39	772	7505228657552327	src/CMakeFiles/glfw.dir/platform.c.obj	cde20cec4e80706c
+7	1013	7505228659682496	src/CMakeFiles/glfw.dir/context.c.obj	2ff6d41f34c69343
+1	1023	7505228659712496	src/CMakeFiles/glfw.dir/input.c.obj	7573620f02d6ce35
+21	1034	7505228660192537	src/CMakeFiles/glfw.dir/monitor.c.obj	b2eb732c6eb8d207
+58	1047	7505228660432545	src/CMakeFiles/glfw.dir/egl_context.c.obj	f48e3ced8d8236e1
+49	1295	7505228662042670	src/CMakeFiles/glfw.dir/window.c.obj	d484c078d4817777
+764	1548	7505228665280202	src/CMakeFiles/glfw.dir/null_joystick.c.obj	f0529e2353b52514
+779	1561	7505228665510203	src/CMakeFiles/glfw.dir/win32_module.c.obj	f4b14e59881d77ed
+749	1575	7505228665580213	src/CMakeFiles/glfw.dir/null_monitor.c.obj	ffdbc92c884951f9
+738	1709	7505228665520212	src/CMakeFiles/glfw.dir/osmesa_context.c.obj	5f02382cac3f1162
+1017	1732	7505228665850254	src/CMakeFiles/glfw.dir/null_window.c.obj	ef3915650ea1ec8
+1027	1858	7505228668545520	src/CMakeFiles/glfw.dir/win32_init.c.obj	373bf0feffb16671
+1039	1863	7505228668585523	src/CMakeFiles/glfw.dir/win32_thread.c.obj	aad602b2a7546896
+1054	1869	7505228668835544	src/CMakeFiles/glfw.dir/win32_time.c.obj	7ee1afd2dbc5870a
+1580	2020	7505228670365658	src/CMakeFiles/glfw.dir/glfw.rc.res	93f8a98597611379
+1299	2152	7505228671725756	src/CMakeFiles/glfw.dir/win32_monitor.c.obj	f32fecd9ace4deff
+1552	2205	7505228672265794	src/CMakeFiles/glfw.dir/win32_joystick.c.obj	ce32d1b72d32850a
+1720	2234	7505228672565844	src/CMakeFiles/glfw.dir/wgl_context.c.obj	3778a27ec4fe6267
+1566	2239	7505228672595825	src/CMakeFiles/glfw.dir/win32_window.c.obj	188286ca51c40b9f
+2243	2736	7505228677316182	src/glfw3.dll	d29029ff2ecc6598
+2243	2736	7505228677316182	src/glfw3dll.lib	d29029ff2ecc6598
+2743	2974	0	CMakeFiles/install.util	7a854451fc72aed2

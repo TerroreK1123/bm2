@@ -1,0 +1,26 @@
+# ninja log v5
+28	684	7505228686899071	src/CMakeFiles/glfw.dir/platform.c.obj	835f8b8fec9cf8a6
+8	837	7505228688569191	src/CMakeFiles/glfw.dir/init.c.obj	d055fa8c2443c4f9
+44	852	7505228687759141	src/CMakeFiles/glfw.dir/monitor.c.obj	dc7c18282b278674
+93	868	7505228688489186	src/CMakeFiles/glfw.dir/null_init.c.obj	cf4d9ffcb06dbbb7
+34	884	7505228687829135	src/CMakeFiles/glfw.dir/vulkan.c.obj	31340350ed1fe25a
+58	910	7505228688759209	src/CMakeFiles/glfw.dir/egl_context.c.obj	bdef4342f4b30c75
+67	933	7505228688899213	src/CMakeFiles/glfw.dir/window.c.obj	3b3d6ec1866b7bb1
+14	948	7505228689029219	src/CMakeFiles/glfw.dir/context.c.obj	3ce84da3c2ca25b2
+1	973	7505228690139311	src/CMakeFiles/glfw.dir/input.c.obj	6cb442b3cee4c427
+874	1604	7505228696429796	src/CMakeFiles/glfw.dir/null_joystick.c.obj	6d8cb9e625b56d6d
+898	1616	7505228695939736	src/CMakeFiles/glfw.dir/win32_module.c.obj	bb0def9ccd14e310
+844	1690	7505228696639801	src/CMakeFiles/glfw.dir/null_monitor.c.obj	723f36efb83f4e48
+860	1706	7505228696709812	src/CMakeFiles/glfw.dir/null_window.c.obj	f713e511904c0448
+921	1731	7505228696549795	src/CMakeFiles/glfw.dir/win32_thread.c.obj	3e8c0d4da2e164d2
+819	1737	7505228697259856	src/CMakeFiles/glfw.dir/osmesa_context.c.obj	a66865a0712fc503
+958	1814	7505228698429924	src/CMakeFiles/glfw.dir/win32_init.c.obj	9a89806b8e7c31d
+939	1862	7505228699089976	src/CMakeFiles/glfw.dir/win32_time.c.obj	fd80dcc4582870bc
+1695	1987	7505228700360066	src/CMakeFiles/glfw.dir/glfw.rc.res	cac0dc63a7e8959d
+985	2028	7505228700780106	src/CMakeFiles/glfw.dir/win32_window.c.obj	d978a257168c20c2
+1621	2244	7505228702940270	src/CMakeFiles/glfw.dir/win32_monitor.c.obj	3711bd42739e98eb
+1608	2297	7505228703480318	src/CMakeFiles/glfw.dir/win32_joystick.c.obj	89ca62436437cab3
+1711	2345	7505228703960337	src/CMakeFiles/glfw.dir/wgl_context.c.obj	af2ac52307a3b90b
+2349	2575	7505228706103916	src/glfw3.dll	5ec837f3618b971
+2349	2575	7505228706103916	src/glfw3dll.lib	5ec837f3618b971
+2583	2760	0	CMakeFiles/install.util	e26ded00ae92cf4c

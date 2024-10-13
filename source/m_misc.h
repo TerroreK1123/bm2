@@ -7,3 +7,5 @@
 
 void M_strcpy(char* dest, const char* src);
 void M_strncpy(char* dest, const char* src, int n);
+
+unsigned char* M_ReadFile(const char* path);

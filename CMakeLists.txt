@@ -42,4 +42,7 @@ if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET bm2 PROPERTY CXX_STANDARD 20)
 endif()
 
+install (TARGETS bm2 RUNTIME DESTINATION ${CMAKE_CURRENT_LIST_DIR}/bin)
+install (TARGETS gameasm RUNTIME DESTINATION ${CMAKE_CURRENT_LIST_DIR}/bin)
+
 # TODO: Add tests and install targets if needed.

@@ -56,6 +56,19 @@ struct SBuffer
 	void Buffer(void *data, int element_size, int amount, int usage, int target,
 		SVertexAttribute *attributes = NULL, int attr_amount = 0, int vao = 0);
 };
+struct SShader
+{
+	unsigned int program;
+	unsigned int shaders[8];
+	char shader_count;
+
+	void Init();
+	void AddShader(int type, const char* code);
+	void LinkShader();
+
+	bool CheckShaderValidity(unsigned int shader);
+	bool CheckProgramValidity();
+};
 struct SMesh
 {
 	unsigned int vao;
